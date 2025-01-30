@@ -10,10 +10,9 @@ Here are some ideas to get you started: -->
 </div>
 
  <br/>
-Innovate with logic, build with passion.
+
 ## 👨🏻‍💻 About Me:
-
-
+Innovate with logic, build with passion.
 <img src="./line.gif" width="100%" alt="snake"/>
  <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=THOTA-SRIKANTH&label=Profile%20views&color=0e75b6&style=flat" alt="THOTA-SRIKANTH" /> </p>
