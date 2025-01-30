@@ -10,10 +10,9 @@ Here are some ideas to get you started: -->
 </div>
 
  <br/>
-
+Innovate with logic, build with passion.
 ## 👨🏻‍💻 About Me:
 
-A passionate full-stack developer eager to learn and build scalable applications.
 
 <img src="./line.gif" width="100%" alt="snake"/>
  <br/>
@@ -21,9 +20,8 @@ A passionate full-stack developer eager to learn and build scalable applications
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m currently working on `MERN Stack Projects`.
+- 🔭 I’m currently working on `React Project`.
 
-- 🌱 I’m currently learning `Advanced React and Backend Technologies`.
 
 - 👨‍💻 Life Hack: Keep learning, keep coding! 🚀
 
@@ -56,11 +54,15 @@ A passionate full-stack developer eager to learn and build scalable applications
 
 ## 📊 My GitHub Data:
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; background-color: black; padding: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=THOTA-SRIKANTH&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="THOTA-SRIKANTH" />
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=THOTA-SRIKANTH&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="THOTA-SRIKANTH" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=THOTA-SRIKANTH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=THOTA-SRIKANTH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+
+
+
+
+
+
+
